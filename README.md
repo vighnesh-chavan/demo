@@ -1,1 +1,1 @@
-This is the demo link for my [Twitter](https://twitter.com/vighneshchvn){target="_blank" rel="noopener"}
+This is the demo link for my <a href="https://twitter.com/vighneshchvn" target="_blank">Twitter</a>
